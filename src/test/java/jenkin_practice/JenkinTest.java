@@ -6,6 +6,6 @@ public class JenkinTest {
 @Test
 public void test()
 {
-	System.out.println("tested  successfully");
+	System.out.println("tested  successfully....");
 }
 }
