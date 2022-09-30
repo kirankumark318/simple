@@ -7,5 +7,8 @@ public class JenkinTest {
 public void test()
 {
 	System.out.println("tested  successfully....");
+
+
+
 }
 }
